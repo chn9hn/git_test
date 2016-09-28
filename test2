@@ -1,0 +1,4 @@
+def sleepy(n):
+  return n*3
+
+print sleepy(3)
